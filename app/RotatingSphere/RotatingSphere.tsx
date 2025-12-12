@@ -35,7 +35,9 @@ function RotatingSphere(props: any) {
           "AWS",
           "Python",
           "Machine Learning",
-          "Deep Learning"
+          "Deep Learning",
+          "Lógica",
+          "Programação",
         ],
         {
           // eslint-disable-next-line no-restricted-globals

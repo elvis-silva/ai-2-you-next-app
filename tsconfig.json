@@ -28,7 +28,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
-    "**/*.mts"
-  ],
+    "**/*.mts",
+    "src"
+, "app/Contact", "app/Footer", "app/Features", "app/ContactForm", "app/Home_bak", "app/Letter", "app/NavBar", "app/NavBarMobile", "app/Navigation", "app/Gallery", "app/Header", "app/Projects", "app/RotatingSphere", "app/Skills"  ],
   "exclude": ["node_modules"]
 }
